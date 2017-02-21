@@ -1,6 +1,6 @@
 ---
-layout: post
+layout: default
 title: Hello World
 ---
 #hello
-##hello
+##hello123
